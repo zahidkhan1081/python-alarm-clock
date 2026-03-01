@@ -3,8 +3,7 @@
 A simple terminal-based alarm clock built using Python and Pygame.
 
 ## Features
-- Countdown timer
-- Live MM:SS display
+- Countdown timer
 - Looping alarm sound
 - Manual stop option
 
